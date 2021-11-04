@@ -1,0 +1,21 @@
+#whole{
+    background-color: white;
+    background-image:url(Nike-Air-Force-1-Symphony-Gradient-1.jpeg);
+    background-size: cover;
+    
+    
+    
+}
+.head{
+    font-size: 50px;
+    color: red;
+    text-align-last: center; 
+}
+.intro{
+    font-size: larger;
+    font-style: italic;
+    align-items: center;
+    font-variant: initial;
+    color:white;
+    
+}
